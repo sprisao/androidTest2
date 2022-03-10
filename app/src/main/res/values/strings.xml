@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">androidTest2</string>
+    <string name="add_guess">Enter guess</string>
+</resources>
